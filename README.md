@@ -39,7 +39,6 @@
 👨‍💻 CS graduate from Sukkur IBA University,  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Pakistan
 - 🚀 Associate Software Engineer at Binate digital karachi
 - 🔭 Full Stack Developer (MERN) at E-medigo
-- 🚀 Machine Learning Intern at CodeClause
 - :telescope: Currently working as a Associate Software Engineer at Binate digital, contributing to frontend and backend for building web applications
 - 🌱 Always exploring and learning
 - 💡 Coding Lover!
